@@ -1,9 +1,22 @@
 body  {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	width: 800px;
+	width: 95%;
+	max-width: 960px;
 	background-color: white;
 	margin: 0 auto; 
 	padding: 0;
 	border: 3px solid black;
 	box-shadow: 0 9px 18px 9px;
+}
+
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
+#Cave-Goblins{
+	text-align: right;
 }
